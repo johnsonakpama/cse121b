@@ -1,7 +1,7 @@
 const aCourse = {
     code: "CSE121b",
     name: "Javascript Language",
-    sections: [
+    seonctions: [
       {
         sectionNum: 1,
         roomNum: "STC 353",
